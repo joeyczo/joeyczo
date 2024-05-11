@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018ee61e-a067-4bc0-9ed3-24a4d7f629a0.svg)](https://wakatime.com/@018ee61e-a067-4bc0-9ed3-24a4d7f629a0)
 
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeyczo&show_icons=true&theme=transparent)
+
 <!--
 **joeyczo/joeyczo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
